@@ -48,7 +48,6 @@ Clone the repo
    https://github.com/PAARTH2608/Smart-PDFs.git
    ```
 ## Frontend
-### Go inside the frontend folder : 
 Install all the npm packages. Go into the project folder and type the following command to install all npm packages
 ```bash
 npm install
@@ -60,7 +59,6 @@ npm start
 The Application Runs on **localhost:3000**
 
 ## Backend
-### Go inside the backend folder
 1. Install virtual environment
    ```sh
    pip install virtualenv
