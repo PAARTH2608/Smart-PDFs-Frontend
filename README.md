@@ -8,11 +8,12 @@
   </a>
  
   <h3 align="center">Smart PDF's</h3>
+  Project Link: [https://github.com/PAARTH2608/Smart-PDFs](https://smart-pdfs.herokuapp.com/)
 
   <p align="center">
     A website to convert your tilted images into a perfectly aligned one which user can download individually or as a combined PDF
     <br />
-<!--     <a href="https://github.com/PAARTH2608/Smart-PDFs/README.md"><strong>Explore the docs »</strong></a> -->
+    <a href="https://github.com/PAARTH2608/Smart-PDFs/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -90,6 +91,3 @@ To explore backend, go to [http://127.0.0.1:8000](http://127.0.0.1:8000).
 <a href="https://www.linkedin.com/in/paarth-jain-470522208/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/PAARTHJAIN7" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.instagram.com/_paarth7_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
-
-
-Project Link: [https://github.com/PAARTH2608/Smart-PDFs](https://github.com/PAARTH2608/Smart-PDFs)
