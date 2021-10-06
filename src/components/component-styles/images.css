@@ -1,0 +1,97 @@
+.image-div{
+    height: 40vh;
+    width: 30vw;
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.55);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3); 
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.form-label{
+    font-size: 1.4rem;
+    padding: 2%;
+    display: flex;
+}
+.upload-button{
+    height: 8vh;
+    width: 100%;
+    border: 1px solid white;
+    color: white;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 4% 2% 2% 2%;
+    background: linear-gradient(90deg,rgba(93,195,221,1) 0%,rgba(124,76,215,1) 100%);
+}
+.upload-button:hover{
+    border: 1px solid #4e9ee9;
+    color: #4e9ee9;
+    background: white;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.fetched-div{
+    height: 60vh;
+    width: 30vw;
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.55);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3); 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5%;
+    text-align: center;
+}
+.fetched-div .overflow{
+    overflow-y: scroll;
+    margin: 5%;
+    padding: 2%;
+}
+.fetched-div h3{
+    font-size: 1.6rem;
+    padding-top: 4%;
+}
+.image-div .image-inside input{
+    padding: 2%;
+    width: 100%;
+    text-decoration: none;
+    outline: none;
+}
+.upload-images{
+    color: #4e9ee9;
+}
+@media all and (max-width: 1175px){
+    .fetched-div,
+    .image-div{
+        width: 40vw
+    }
+}
+
+.file::file-selector-button, .file::-webkit-file-upload-button{
+    background: linear-gradient(90deg,rgba(93,195,221,1) 0%,rgba(124,76,215,1) 100%);
+    border: none;
+    padding: 1rem 1.5rem;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.choose-file::file-selector-button, .choose-file::-webkit-file-upload-button{
+    background-color: #4e9ee9;
+    border: none;
+    padding: 1rem 1.5rem;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+  }
