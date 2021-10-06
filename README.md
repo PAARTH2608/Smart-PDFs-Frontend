@@ -12,7 +12,7 @@
   <p align="center">
     A website to convert your tilted images into a perfectly aligned one which user can download individually or as a combined PDF
     <br />
-    <a href="https://github.com/PAARTH2608/Smart-PDFs/README.md"><strong>Explore the docs »</strong></a>
+    <a href="./src"><strong>Explore the code »</strong></a>
     <br />
     <br />
   
