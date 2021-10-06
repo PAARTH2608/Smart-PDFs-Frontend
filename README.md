@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/PAARTH2608/Smart-PDFs">
-    <img src="https://nanonets.com/blog/content/images/2020/10/pdf-language-translation-1.jpg" alt="project pic" width="740" height="426">
+    <img src="https://nanonets.com/blog/content/images/2020/10/pdf-language-translation-1.jpg" alt="project pic" width="940" height="426">
   </a>
  
   <h3 align="center">Smart PDF's</h3>
