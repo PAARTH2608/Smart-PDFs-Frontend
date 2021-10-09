@@ -16,7 +16,7 @@
     <br />
     <br />
   
-  Project Link: [https://github.com/PAARTH2608/Smart-PDFs](https://smart-pdfs.herokuapp.com/)
+  Project Link: [Smart PDF's](https://smart-pdfs.herokuapp.com/)
   </p>
 </p>
 
